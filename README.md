@@ -1,4 +1,4 @@
-# 🛒 Blinkit Grocery Analytics Dashboard - Power BI Project
+# 🛒 Blinkit Grocery Analytics Dashboard - Power BI
 
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=for-the-badge&logo=databricks&logoColor=white) ![Dashboard](https://img.shields.io/badge/Dashboard-FF9800?style=for-the-badge&logo=googleanalytics&logoColor=white) ![CSV](https://img.shields.io/badge/CSV-1572B6?style=for-the-badge&logo=files&logoColor=white) 
 
